@@ -1,6 +1,6 @@
 # SDM-VAE
 
-This is the PyTorch implementation of the SDM-VAE model proposed in [1]. The codes are inspired by [this repository](https://github.com/XiaoyuBIE1994/DVAE):
+This is the PyTorch implementation of the SDM-VAE model proposed in [1]. The codes are inspired by [this repository](https://github.com/XiaoyuBIE1994/DVAE).
 
 ## VAE Models
 
