@@ -22,6 +22,10 @@ python train_model.py --cfg ./configuration/cfg_SDM_VAE.ini
 
 You can evaluate a trained VAE model in a speech analysis-resynthesis task via `test_speech_analysis_resynthesis.py`.
 
+## Contact
+
+If you have any questions, please feel free to reach me out via email: mostafa[dot]sadeghi[at]inria[dot]fr
+
 ## Reference
 
 [1] Mostafa Sadeghi and Paul Magron, "[A Sparsity-promoting Dictionary Model for Variational Autoencoders](https://arxiv.org/abs/2203.15758)," Interspeech 2022 (submitted).
