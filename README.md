@@ -8,7 +8,7 @@ The standard VAE and SDM-VAE models are provided in `./model`.
 
 ## Training
 
-Set the training properties (e.g., network architectures, STFT parameters, etc.) in the `config` files provided inside `./configuration`. The training then proceeds as follows:
+Set the training properties (e.g., network architecture, STFT parameters, etc.) in the `config` files provided inside `./configuration`. The training then proceeds as follows:
 
 ```
 # Train a VAE model:
